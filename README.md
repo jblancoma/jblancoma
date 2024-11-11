@@ -13,3 +13,9 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=jblancoma&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jblancoma)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jblancoma&theme=material-palenight)](https://github.com/jblancoma)
+</div>
