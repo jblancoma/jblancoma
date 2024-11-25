@@ -3,7 +3,7 @@
 <img src="" width="30px">&nbsp;***About me***
 
 Graduated from the Universidad Técnica Nacional with a bachelor's degree in Information Technology Engineering. Throughout my academic career, I developed skills in programming languages, web development, database management and networks.
-During my studies, I worked on several practical projects that allowed me to apply my knowledge in web application development. I am a proactive person with a strong ability to learn new technologies and face challenges.
+During my studies, I worked on several practical projects that allowed me to apply my knowledge in web application development. I am a proactive person with a strong ability to learn new technologies and new face challenges.
 
 ## My Skills Include
 
