@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Juan Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="" width="30px">&nbsp;***About me***
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" stroke-width="2"> <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path> <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path> </svg> &nbsp;***About me***
 
 Graduated from the Universidad Técnica Nacional with a bachelor's degree in Information Technology Engineering. Throughout my academic career, I developed skills in programming languages, web development, database management and networks.
 During my studies, I worked on several practical projects that allowed me to apply my knowledge in web application development. I am a proactive person with a strong ability to learn new technologies and new face challenges.
