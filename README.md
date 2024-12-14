@@ -19,7 +19,8 @@ During my studies, I worked on several practical projects that allowed me to app
 
 <h4>Database Systems</h4>
 <span>
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="">
 </span>
 
 <h2>Github stats:</h2> 
