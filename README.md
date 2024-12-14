@@ -35,6 +35,18 @@ During my studies, I worked on several practical projects that allowed me to app
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
 
+<h4> 🕓 Version Control </h4>
+<span>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+</span>
+
+<h4> 🥅 Other </h4>
+<span>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</span>
+
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=jblancoma&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jblancoma)
